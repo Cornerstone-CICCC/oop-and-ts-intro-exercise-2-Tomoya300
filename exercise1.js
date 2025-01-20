@@ -43,7 +43,7 @@ console.log(vehicle1.getInfo())
 const myCar = new Car("Toyota", "Corolla", 2021, 4);
 console.log(myCar.getInfo());  // Expected Output: "2021 Toyota Corolla with 4 doors"
 
-// -----------------------------------------------------------------------------------
+// --------------------------------------note---------------------------------------------
 
 // class Person {
 //   constructor(fname, lname) {
@@ -150,7 +150,7 @@ console.log(myCar.getInfo());  // Expected Output: "2021 Toyota Corolla with 4 d
 // const apartment1 = new Apartment(2, 300)
 // console.log(apartment1.describe())
 
-// -----------------------------------------------------------------------------
+// ------------------------------------multilevel inheritance-----------------------------------------
 
 // class Person {
 //   constructor(fname, lname) {
